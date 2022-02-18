@@ -11,3 +11,28 @@ body {
 .App {
   text-align: center;
 }
+
+header {
+  font-size: 40px;
+  line-height: 200px;
+  text-align: center;
+}
+
+h2 {
+  background-color: rgba(0, 0, 0, 0.603);
+  border: 2px solid white;
+  border-radius: 5px;
+  font-size: 35px;
+  line-height: 70px;
+  margin: 0 auto;
+  text-align: center;
+  width: 80%;
+}
+
+.planetDisplay {
+  display: flex;
+}
+
+img {
+  width: 200px;
+}
