@@ -22,14 +22,14 @@ header {
   display: flex;
   font-size: 35px;
   justify-content: center;
-  margin: 40px auto;
+  margin: 0 auto;
   padding: 15px;
   width: 70%;
 }
 
 .planetDisplay {
   display: flex;
-  margin: 0 auto;
+  margin: 50px auto;
   width: 70%;
 }
 
@@ -45,15 +45,17 @@ img {
 }
 
 .missions-container {
-  border: 2px solid white;
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
   margin: 0 auto;
   width: 70%;
 }
 
 .mission-card {
   border: 2px solid rgba(255, 255, 255, 0.658);
+  border-radius: 10px;
   height: 100px;
-  width: 25%;
+  margin-top: 30px;
+  width: 30%;
 }
