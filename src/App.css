@@ -8,25 +8,22 @@ body {
   color: white;
 }
 
-.App {
-  text-align: center;
-}
-
 header {
+  display: flex;
   font-size: 40px;
-  line-height: 200px;
-  text-align: center;
+  justify-content: center;
+  padding: 25px;
 }
 
-h2 {
-  background-color: rgba(0, 0, 0, 0.603);
+.title-container {
+  background-color: rgba(0, 0, 0, 0.5);
   border: 2px solid white;
-  border-radius: 5px;
+  display: flex;
   font-size: 35px;
-  line-height: 70px;
-  margin: 0 auto;
-  text-align: center;
-  width: 80%;
+  justify-content: center;
+  margin: 20px auto;
+  padding: 15px;
+  width: 70%;
 }
 
 .planetDisplay {
@@ -35,4 +32,19 @@ h2 {
 
 img {
   width: 200px;
+}
+
+.missions-container {
+  display: flex;
+  border: 2px solid white;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.mission-card {
+  border: 2px solid rgba(255, 255, 255, 0.658);
+  margin: 15px;
+  padding: 20px;
+  height: 100px;
+  width: 100px;
 }
