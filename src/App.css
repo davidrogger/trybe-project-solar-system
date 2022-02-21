@@ -28,6 +28,8 @@ header {
 }
 
 .planetDisplay {
+  align-content: space-between;
+  align-items: baseline;
   display: flex;
   margin: 50px auto;
   width: 70%;
@@ -41,6 +43,7 @@ img {
   align-items: center;
   display: flex;
   flex-direction: column;
+  height: 100%;
   margin: 0 auto;
 }
 
@@ -55,7 +58,40 @@ img {
 .mission-card {
   border: 2px solid rgba(255, 255, 255, 0.658);
   border-radius: 10px;
-  height: 100px;
   margin-top: 30px;
   width: 30%;
+}
+
+.mission-name {
+  font-size: 20px;
+  font-weight: 950;
+  padding: 10px;
+  text-align: center;
+}
+
+.mission-nameContainer {
+  align-items: center;
+  display: flex;
+  height: 80px;
+  justify-content: center;
+}
+
+.info-data {
+  padding: 20px;
+}
+
+.Mercúrio-container {
+  width: 30px;
+}
+
+.Marte-container {
+  width: 50px;
+}
+
+.Júpiter-container {
+  width: 170px;
+}
+
+.Saturno-container {
+  width: 200px;
 }
