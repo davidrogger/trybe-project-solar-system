@@ -7,9 +7,7 @@ class MissionCard extends Component {
 
     return (
       <div data-testid="mission-card" className="mission-card">
-        <div className="mission-nameContainer">
-          <h2 data-testid="mission-name" className="mission-name">{name}</h2>
-        </div>
+        <p data-testid="mission-name" className="mission-name">{name}</p>
         <hr />
         <div className="info-data">
           <p data-testid="mission-year">{year}</p>

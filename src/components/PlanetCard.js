@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 class PlanetCard extends Component {
   render() {
     const { planetName, planetImage } = this.props;
-    const altText = ` Planeta ${planetName}`;
+    const altText = `Planeta ${planetName}`;
     const plantStyle = `${planetName}-container`;
 
     return (
