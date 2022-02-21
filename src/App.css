@@ -28,9 +28,8 @@ header {
 }
 
 .planetDisplay {
-  align-content: space-between;
-  align-items: baseline;
   display: flex;
+  height: 180px;
   margin: 50px auto;
   width: 70%;
 }
@@ -44,7 +43,15 @@ img {
   display: flex;
   flex-direction: column;
   height: 100%;
+  justify-content: space-between;
   margin: 0 auto;
+}
+
+.img-container {
+  height: 100%;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
 }
 
 .missions-container {
