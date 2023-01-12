@@ -1,9 +1,8 @@
 # Sobre o Projeto 
 
-<div align="center" style="margin-bottom: 30px">
-  <a href="https://davidrogger.github.io/trybe-project-solar-system">
+<div align="center">
+  <a href="https://davidrogger.github.io/trybe-project-solar-system" target="_blank">
     <img width="50%" src="./imgs/project_solar_system.jpg">
-    <i>Clique na imagem acessar a página online</i>
   </a>
 </div>
 
