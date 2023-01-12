@@ -29,18 +29,6 @@
 
 - Reproduzir esse projeto usando *javascript* puro, seria muito mais trabalhoso e bagunçado para identificar cada parte do código, a componentização e mescla do código *javascript* com o *HTML* usando *JSX*, facilita bem a compreensão depois de alguns experimentos.
 
-<details>
-  <summary>
-    <strong>
-      ⚠️ Configurações mínimas para execução do projeto
-    </strong>
-  </summary>
-
-   - Sistema Operacional Distribuição Unix
- - Python versão >= 3.8.10 
-
-</details>
-
 </details>
 
 <details>
@@ -54,7 +42,16 @@
 ### Resultado por requisito
 *Nome* | *Avaliação*
 --- | :---:
-1 - lore | :heavy_check_mark:
+1 - Crie um componente chamado `Header` | :heavy_check_mark:
+2 - Crie um componente chamado `SolarSystem`  | :heavy_check_mark:
+3 - Crie um componente chamado `Title` | :heavy_check_mark:
+4 - Renderize o componente `Title` dentro do componente `SolarSystem` | :heavy_check_mark:
+5 - Crie um componente chamado `PlanetCard` | :heavy_check_mark:
+6 - Renderize uma lista com os planetas do Sistema Solar | :heavy_check_mark:
+7 - Crie um componente chamado `Missions`  | :heavy_check_mark:
+8 - Renderize o componente `Title` dentro do componente `Missions` | :heavy_check_mark:
+9 - Crie um componente chamado `MissionCard` | :heavy_check_mark:
+10 - Renderize uma lista com as missões espaciais | :heavy_check_mark:
 
 
 </details>
