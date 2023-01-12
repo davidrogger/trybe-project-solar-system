@@ -18,15 +18,16 @@
 
 # Tecnologias e ferramentas usadas 🛠
 
--
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 
 
 # Desafios
 
-- 
+- Entender a mistura do *hyper text* do *HTML* com *javascript*, tornando mais simples e prática a renderização de uma lista de itens.
+
 # Conclusão
 
-- 
+- Reproduzir esse projeto usando *javascript* puro, seria muito mais trabalhoso e bagunçado para identificar cada parte do código, a componentização e mescla do código *javascript* com o *HTML* usando *JSX*, facilita bem a compreensão depois de alguns experimentos.
 
 <details>
   <summary>
