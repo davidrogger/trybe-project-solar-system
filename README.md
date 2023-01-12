@@ -39,7 +39,7 @@
   </summary>
 
  
-### Requisito
+### Requisitos
 *Nome* | *Avaliação*
 --- | :---:
 1 - Crie um componente chamado `Header` | :heavy_check_mark:
