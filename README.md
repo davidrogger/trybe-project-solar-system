@@ -14,7 +14,7 @@
 >*clique na imagem para acesso online do projeto*
 #
 ## Projeto: `Solar System`
-- O projeto foi o mais simples de todos do módulo. Foi usado arquivos simulando o uso de uma API, para renderização em lista, nomes, imagens e descrições de planetas. Criando componentes modelo para cards, títulos e divisões.
+- O projeto foi o mais simples de todos do módulo. Foi usado arquivos simulando o uso de uma API, para renderização de uma lista com nomes, imagens e descrições de planetas aproveitando do uso padronizado de componentes modelo para cards, títulos e divisões.
 
 # Tecnologias e ferramentas usadas 🛠
 
