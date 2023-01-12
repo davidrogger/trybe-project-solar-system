@@ -5,9 +5,9 @@
 #
 <div align="center">
   <a href="https://davidrogger.github.io/trybe-project-solar-system">
-    <img width="33%" src="./imgs/project_solar_system_top.jpg">
-    <img width="33%" src="./imgs/project_solar_system_mid.jpg">
-    <img width="33%" src="./imgs/project_solar_system_bottom.jpg">
+    <img width="30%" src="./imgs/project_solar_system_top.jpg">
+    <img width="30%" src="./imgs/project_solar_system_mid.jpg">
+    <img width="30%" src="./imgs/project_solar_system_bottom.jpg">
   </a>
 </div>
 
