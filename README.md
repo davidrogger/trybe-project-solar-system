@@ -1,7 +1,7 @@
 # Sobre
 
 ## Seção: `Introdução ao React`
-- Essa seção, foi iniciada a apresentação do react, onde foi apontado o porquê de sua criação pelo Facebook, com o aumento de usuários, sua complexidade e dificuldades de manutenção aumentaram junto, sendo necessário a criação de uma solução de escalabilidade, dando início então ao react. Sua instalação, e inicialização, abordando o entendimento do que é JSX e como ele funciona, criação de componentes, uso de props.
+- Essa seção, foi iniciada a apresentação do react, onde foi apontado o porquê de sua criação pelo Facebook, com o aumento de usuários, sua complexidade e dificuldades de manutenção aumentaram junto, sendo necessário a criação de uma solução de escalabilidade, dando início então ao react. Foi apresentados passos de instalação, inicialização o entendimento do que é JSX com sua mesclagem de HTML com javascript em um mesmo arquivo, criação de componentes, uso de props.
 #
 <div align="center">
   <a href="https://davidrogger.github.io/trybe-project-solar-system">
